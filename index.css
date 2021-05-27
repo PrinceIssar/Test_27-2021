@@ -1,0 +1,15 @@
+.drink {
+    border: 1px gray solid;
+    background-color: #fff7f4;
+    box-shadow: 5px 10px #888888;
+    padding: 6px;
+    margin: 16px 0px;
+}
+
+#search-send {
+    width: 100px;
+}
+
+#drinks-found-section {
+    margin: 32px 0px;
+}
